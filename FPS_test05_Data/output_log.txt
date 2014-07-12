@@ -1,0 +1,25 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 4250 Graphics (ID=0x9712)
+    Vendor:   ATI
+    VRAM:     252 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.307 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Unity_project\FPS_test05\FPS_test05_Data\Managed\System.dll (this message is harmless)
